@@ -1,0 +1,81 @@
+*{
+	color : #333333;
+	font-family:Century Gothic, sans-serif;
+	text-decoration:none;
+}
+
+body
+{
+  background-color: green;
+}
+.anandi{
+	position:fixed;
+  margin-right: 5%;
+	top:0px;
+	padding-left:5%;
+	background-color:black;
+	line-height:20px;
+	width:100%;
+	height:70px;
+}
+
+#anandi1
+{
+  position: fixed;
+	margin:0px;
+  padding-right: 20%;
+	display:inline-block;
+	width:100%;
+  top: 3px;
+}
+h5
+{
+  margin-left: 20%;
+}
+.atas
+{
+display:inline-block;
+margin-bottom:10%;
+color:gray;
+padding-left:50px;
+margin:10px;
+padding-bottom:10%;
+}
+
+.asd
+{
+
+  margin-bottom:10%;
+  color:gray;
+  padding-left:40px;
+  margin:10px;
+  padding-bottom:10%;
+  margin-top: 50px;
+}
+a
+{
+	color:white;
+}
+
+h1
+{
+padding-top: 60px;
+margin-left: 20%
+}
+
+p
+{
+padding-top:20px;
+margin-left: 20%;
+
+}
+
+.menu
+{
+  width: 15%;
+  position: fixed;
+  height: 50%;
+  background-color: black;
+  margin:15px;
+  bottom: 35%;
+}
